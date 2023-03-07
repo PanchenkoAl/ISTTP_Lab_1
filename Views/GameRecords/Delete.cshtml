@@ -1,0 +1,57 @@
+﻿@model LIBWebApplication1.GameRecord
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>GameRecord</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.GameDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GameDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Winner)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Winner)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Info)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Info)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Team1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Team1.TeamId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Team2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Team2.TeamId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tournament)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tournament.TournamentId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="GameRecordId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

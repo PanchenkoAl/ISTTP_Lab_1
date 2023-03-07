@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LIBWebApplication1
+build_property.RootNamespace = LIBWebApplication1
+build_property.ProjectDir = C:\Users\Ya\source\repos\LIBWebApplication1\LIBWebApplication1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Ya\source\repos\LIBWebApplication1\LIBWebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/GameRecords/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlY29yZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/GameRecords/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlY29yZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/GameRecords/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlY29yZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/GameRecords/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlY29yZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/GameRecords/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlY29yZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Players/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Players/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Players/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Players/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Players/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Staffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Staffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Staffs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Staffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Staffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/TeamsPlayers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNQbGF5ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/TeamsPlayers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNQbGF5ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/TeamsPlayers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNQbGF5ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/TeamsPlayers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNQbGF5ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/TeamsPlayers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNQbGF5ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Teams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Teams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Teams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Teams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Teams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Tournaments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5hbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Tournaments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5hbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Tournaments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5hbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Tournaments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5hbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Tournaments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5hbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ya/source/repos/LIBWebApplication1/LIBWebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qh9est5eg6

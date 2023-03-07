@@ -1,0 +1,65 @@
+﻿@model IEnumerable<LIBWebApplication1.GameRecord>
+
+@{
+    ViewData["Title"] = "Games";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GameDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Winner)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Info)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tournament)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GameDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Winner)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Info)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team1.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team2.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tournament.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.GameRecordId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.GameRecordId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.GameRecordId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
